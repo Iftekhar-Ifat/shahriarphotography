@@ -177,7 +177,7 @@ html{
     display: flex;
     width: 25%;
     padding: 8px;
-    background-image: url("../Images/logo/facebook_img.png");
+    background-image: url("Images/logo/facebook_img.png");
     justify-content: center;
 }
 .instagram{
@@ -185,7 +185,7 @@ html{
     display: flex;
     width: 25%;
     padding: 8px;
-    background-image: url("../Images/logo/instagram_img.png");
+    background-image: url("Images/logo/instagram_img.png");
     justify-content: center;
 }
 .messenger{
@@ -193,13 +193,13 @@ html{
     display: flex;
     width: 25%;
     padding: 8px;
-    background-image: url("../Images/logo/messenger_img.png");
+    background-image: url("Images/logo/messenger_img.png");
     justify-content: center;
 }
 .e-mail{
     display: flex;
     width: 25%;
     padding: 8px;
-    background-image: url("../Images/logo/mail_img.png");
+    background-image: url("Images/logo/mail_img.png");
     justify-content: center;
 }
