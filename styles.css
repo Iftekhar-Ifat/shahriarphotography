@@ -5,7 +5,7 @@
 
 .back{
     display: flex;
-    background-image: url("../Images/back.png");
+    background-image: url("/Images/back.png");
     justify-content: center;
     width: 100%;
 }
